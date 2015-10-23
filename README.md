@@ -1,3 +1,3 @@
-HID device on the Lipicano Board and Python.
-Experiments with ARM mbed pyOCD.
-Adaptation of pyOCD GDB server.
+HID device on the Lipicano Board and Python. <br />
+Experiments with ARM mbed pyOCD. <br />
+Adaptation of pyOCD GDB server. <br />
