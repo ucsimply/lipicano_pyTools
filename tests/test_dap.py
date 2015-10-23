@@ -145,7 +145,7 @@ if __name__ == '__main__':
     print_target_info(target)
     print_target_ids(target)
     # print_regs(target)
-    step_simple_code(target)
+    # step_simple_code(target)
     
     
     
