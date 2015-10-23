@@ -1,0 +1,5 @@
+
+simple_code.o:     file format elf32-littlearm
+
+Contents of section .text:
+ 0000 05200021 09180138 fcd100be           . .!...8....    

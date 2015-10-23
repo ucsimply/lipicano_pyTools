@@ -1,0 +1,18 @@
+# build output
+*.bin
+*.elf
+*.hex
+*.lst
+*.map
+*.dep
+*.o
+*.pyc
+
+# Eclipse files
+.project
+.cproject
+.pydevproject
+.settings
+
+# debugging
+.gdbinit
