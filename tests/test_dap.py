@@ -71,7 +71,7 @@ def print_target_info(target):
     print("Arch    : %s" % (ARCH_NAME[target.arch]))
     print("Core    : %s" % (CORE_TYPE_NAME[target.core_type]))
     print("FPU     : %s" % (MAP_BOOL_Y_N[target.has_fpu]))
-    print("Hw-BPt  : %s" % (len(target.breakpoints)))
+    print("Hw-BPt  : %s" % (len(target.hw_breakpoints)))
     print("Hw-WPt  : %s" % (len(target.watchpoints)))
     print("State   : %s" % (TARGET_STATE[target.getState()]))
     
